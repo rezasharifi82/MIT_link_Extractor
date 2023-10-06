@@ -1,0 +1,78 @@
+Lecture 1: Introduction
+http://ia600703.us.archive.org/24/items/MITRES.6.007S11/MITRES_6-007S11lec01_300k.mp4
+
+Lecture 2: Signals and Systems: Part I
+http://www.archive.org/download/MITRES.6.007S11/MITRES_6-007S11lec02_300k.mp4
+
+Lecture 3: Signals and Systems: Part II
+http://www.archive.org/download/MITRES.6.007S11/MITRES_6-007S11lec03_300k.mp4
+
+Lecture 4: Convolution
+http://www.archive.org/download/MITRES.6.007S11/MITRES_6-007S11lec04_300k.mp4
+
+Lecture 5: Properties of Linear, Time-Invariant Systems
+http://archive.org/download/MITRES.6.007S11/MITRES_6-007S11lec05_300k.mp4
+
+Lecture 6: Systems Represented by Differential Equations
+http://www.archive.org/download/MITRES.6.007S11/MITRES_6-007S11lec06_300k.mp4
+
+Lecture 7: Continuous-Time Fourier Series
+http://www.archive.org/download/MITRES.6.007S11/MITRES_6-007S11lec07_300k.mp4
+
+Lecture 8: Continuous-Time Fourier Transform
+http://www.archive.org/download/MITRES.6.007S11/MITRES_6-007S11lec08_300k.mp4
+
+Lecture 9: Fourier Transform Properties
+http://www.archive.org/download/MITRES.6.007S11/MITRES_6-007S11lec09_300k.mp4
+
+Lecture 10: Discrete-Time Fourier Series
+http://www.archive.org/download/MITRES.6.007S11/MITRES_6-007S11lec10_300k.mp4
+
+Lecture 11: Discrete-Time Fourier Transform
+http://www.archive.org/download/MITRES.6.007S11/MITRES_6-007S11lec11_300k.mp4
+
+Lecture 12: Filtering
+http://www.archive.org/download/MITRES.6.007S11/MITRES_6-007S11lec12_300k.mp4
+
+Lecture 13: Continuous-Time Modulation
+http://www.archive.org/download/MITRES.6.007S11/MITRES_6-007S11lec13_300k.mp4
+
+Lecture 14: Demonstration of Amplitude Modulation
+http://www.archive.org/download/MITRES.6.007S11/MITRES_6-007S11lec14_300k.mp4
+
+Lecture 15: Discrete-Time Modulation
+http://www.archive.org/download/MITRES.6.007S11/MITRES_6-007S11lec15_300k.mp4
+
+Lecture 16: Sampling
+http://www.archive.org/download/MITRES.6.007S11/MITRES_6-007S11lec16_300k.mp4
+
+Lecture 17: Interpolation
+http://www.archive.org/download/MITRES.6.007S11/MITRES_6-007S11lec17_300k.mp4
+
+Lecture 18: Discrete-Time Processing of Continuous-Time Signals
+http://archive.org/download/MITRES.6.007S11/MITRES_6-007S11lec18_300k.mp4
+
+Lecture 19: Discrete-Time Sampling
+http://www.archive.org/download/MITRES.6.007S11/MITRES_6-007S11lec19_300k.mp4
+
+Lecture 20: The Laplace Transform
+http://www.archive.org/download/MITRES.6.007S11/MITRES_6-007S11lec20_300k.mp4
+
+Lecture 21: Continuous-Time Second-Order Systems
+http://www.archive.org/download/MITRES.6.007S11/MITRES_6-007S11lec21_300k.mp4
+
+Lecture 22: The z-Transform
+http://www.archive.org/download/MITRES.6.007S11/MITRES_6-007S11lec22_300k.mp4
+
+Lecture 23: Mapping Continuous-Time Filters to Discrete-Time Filters
+http://www.archive.org/download/MITRES.6.007S11/MITRES_6-007S11lec23_300k.mp4
+
+Lecture 24: Butterworth Filters
+http://www.archive.org/download/MITRES.6.007S11/MITRES_6-007S11lec24_300k.mp4
+
+Lecture 25: Feedback
+http://www.archive.org/download/MITRES.6.007S11/MITRES_6-007S11lec25_300k.mp4
+
+Lecture 26: Feedback Example: The Inverted Pendulum
+http://www.archive.org/download/MITRES.6.007S11/MITRES_6-007S11lec26_300k.mp4
+
